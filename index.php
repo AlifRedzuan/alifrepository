@@ -16,7 +16,7 @@
 				<div>
 					<div>
 						<a href="signup.php">My Account</a>
-						<a href="index.php">Help</a>
+						<a href="index.php">Home</a>
 						<a href="signin.php" class="last">Sign in</a>
 					</div>
 				
